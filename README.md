@@ -3,7 +3,7 @@
 こちら実際にランサーズであった案件になります。  
 こちらをベースにした課題になります。
 
-![image](https://user-images.githubusercontent.com/16814992/132820314-ac1a0799-6a2e-4377-ba81-844b23faaaba.png)
+![image](https://user-images.githubusercontent.com/16814992/132820406-cb909890-7c96-4e15-bbbb-20178426b379.png)
 
 ## GUI化
 アプリの画面を作成し、
